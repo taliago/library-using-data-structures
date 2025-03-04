@@ -1,0 +1,28 @@
+C:\Users\talia\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\talia\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\talia\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\talia\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\talia\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\talia\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\talia\OneDrive\Documents\C# advanced\assignment1\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
